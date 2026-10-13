@@ -1,6 +1,18 @@
 ---
 name: ai-image-gen-termux
+description: "AI Image Generation on Termux"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: ai-image-gen-termux
 description: AI image gen on Termux. Colab SD is the free pro route.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # AI Image Generation on Termux

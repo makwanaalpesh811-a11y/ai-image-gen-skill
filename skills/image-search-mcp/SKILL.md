@@ -1,8 +1,19 @@
 ---
 name: image-search-mcp
+description: "image search mcp"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: image-search-mcp
 version: 1.0
 description: "Search web images via DuckDuckGo. No key needed."
 tags: ["images", "search", "duckduckgo", "download", "upload"]
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 ## Image Search (DuckDuckGo - No Key Needed)

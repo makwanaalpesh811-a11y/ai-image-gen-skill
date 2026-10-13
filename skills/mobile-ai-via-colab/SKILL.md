@@ -1,6 +1,18 @@
 ---
 name: mobile-ai-via-colab
+description: "Mobile AI via Colab"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: mobile-ai-via-colab
 description: Run mobile AI via Colab on Termux — no PyTorch, no GPU.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Mobile AI via Colab
