@@ -1,11 +1,11 @@
 {
-  "run_at": "2026-10-27 20:34 UTC",
+  "run_at": "2026-10-28 05:20 UTC",
   "files_scanned": 4,
   "files_fixed": 0,
   "issues_count": 3,
   "top_issues": [
     "./README.md: broken link /LICENSE",
-    "./skills/gif-search/SKILL.md: broken link url",
-    "./skills/image-search-mcp/SKILL.md: broken link url"
+    "./skills/image-search-mcp/SKILL.md: broken link url",
+    "./skills/gif-search/SKILL.md: broken link url"
   ]
 }
